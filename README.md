@@ -3,10 +3,7 @@
 ```js
 function profile() {
   username = "OneM4nArmy";
-  age      = "Unknown";
-  goals    = "Unknown";
-  ReachMe  = "Error 404";
-  status   = "Hidden";
+  goals = "Make a difference.";
 }
 ```
 Any other information has to be found by you!
