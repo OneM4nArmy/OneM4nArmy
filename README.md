@@ -10,16 +10,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false&custom_title=Languages&username=OneM4nArmy" height="150" alt="languages graph"  />
+  
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315wd2utvk35bdpk4fw4fld5nqr4&count=1)
 </div>
 
-###
+<div align="right">
 
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
-
-###
